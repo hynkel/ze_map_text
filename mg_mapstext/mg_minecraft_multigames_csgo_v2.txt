@@ -2,7 +2,7 @@
 {
 	"@[Map] Map by Blogger(Dog)"
 	{
-		"chi"		"**地图制作:Blogger(Dog)  地图翻译:Führer_ Hynkel**"
+		"chi"		"**地图制作:Blogger(Dog)  地图翻译:Führer_ Hynkel          如果你意外地捡到了枪，请自觉不要开火**"
 	}
 	"@[Music] The Chain Gang of 1974 - Sleepwalking"
 	{
@@ -38,7 +38,7 @@
 	}
 	"@[MAP] SURVIVAL"
 	{
-		"chi"		"**生存测试 **"
+		"chi"		"**血统测试（请不要用枪打掉落的炸弹，还有，非洲人滚粗） **"
 	}
 	"@[Time] 3 minute before the knifes"
 	{
