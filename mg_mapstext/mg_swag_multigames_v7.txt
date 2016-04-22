@@ -30,7 +30,7 @@
 	}
 	"@[MAP] FALL DAMAGE is DISABLED"
 	{
-		"chi"		"**坠落上海关闭**"
+		"chi"		"**坠落伤害关闭**"
 	}
 	"@[MAP] BombSite Unlocked"
 	{
