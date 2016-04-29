@@ -22,7 +22,7 @@
 	}
 	"@[MAP] GRENADE HOLES"
 	{
-		"chi"		"**扔雷进洞**"
+		"chi"		"**丢雷老眸**"
 	}
 	"@[MAP] PISTOLS"
 	{
@@ -70,11 +70,11 @@
 	}
 	"Winners get in position!"
 	{
-		"chi"		"**胜者获得有利位置**"
+		"chi"		"**胜者当上了集中营营长**"
 	}
 	"Losers prepare to take balls to the face"
 	{
-		"chi"		"**败者准备被球踢到**"
+		"chi"		"**败者处于集中营中，准备把球放脸上**"
 	}
 	"@[MUSIC] Lenny Kravitz - Fly Away"
 	{
@@ -114,7 +114,7 @@
 	}
 	"@[MAP] AIM"
 	{
-		"chi"		"**买买买！干干干！**"
+		"chi"		"**买买买！干干干！（某个文字上面土匪和警察因为小刀和喷子发生大规模的PY交易，你参加了吗？）**"
 	}
 	"@[MAP] This Level By SOLIDSNAKE"
 	{
